@@ -1,4 +1,1 @@
-*.bat
-*.sh
-.vscode
-config.js
+/node_modules
